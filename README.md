@@ -14,7 +14,12 @@
 ![HTML5](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
-
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwindcss)
+![Express.js](https://img.shields.io/badge/Express.js-grey?style=for-the-badge&logo=express)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp)
 ---
 
 
