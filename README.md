@@ -5,7 +5,10 @@
 🌱 Currently learning Machine Learning and Web Development  
 
 ---
+## 📫 Connect With Me
+- Email: maigoyvonne0@gmail.com
 
+---
 ## 🚀 Tech Stack
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
@@ -27,5 +30,4 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=mai-g0&theme=tokyonight)
 
-## 📫 Connect With Me
-- Email: maigoyvonne0@gmail.com
+
