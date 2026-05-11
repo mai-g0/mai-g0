@@ -21,7 +21,11 @@
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
 ![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp)
 ---
+## 📊 GitHub Stats
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mai-g0&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=mai-g0&theme=tokyonight)
 
 ## 📫 Connect With Me
 - Email: maigoyvonne0@gmail.com
